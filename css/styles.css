@@ -91,9 +91,9 @@ h1 {
   background-color: azure;
   box-shadow: none;
 }
-.inicio {
- 
-  padding: 10px 20px;
+
+.inicio { 
+   padding: 10px 20px;
   background-color: rgb(163, 19, 103);
   border: none;
   border-radius: 20px;
@@ -102,13 +102,7 @@ h1 {
   -webkit-box-shadow: 1px 3px 11px -5px rgba(102,231,200,0.69);
   -moz-box-shadow: 1px 3px 11px -5px rgba(102,231,200,0.69);
   box-shadow: 1px 3px 11px -5px rgba(102,231,200,0.69);
-  
 }
-
-.inline-inicio {
-text-align:  center;
-
-} 
 
 .main img {
   border:  7px solid #922457;
